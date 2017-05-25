@@ -6,12 +6,11 @@
 /*   By: jkalia <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/06 14:04:46 by jkalia            #+#    #+#             */
-/*   Updated: 2017/03/10 12:47:17 by jkalia           ###   ########.fr       */
+/*   Updated: 2017/05/24 17:00:47 by jkalia           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fillit.h"
-#include "libft.h"
 
 void	change_end(char **src, int bytes)
 {

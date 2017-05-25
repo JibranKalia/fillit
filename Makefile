@@ -1,7 +1,7 @@
 NAME = fillit
 
 CFLAGS += -Wall -Wextra -Werror
-CFLAGS += -I libft/
+CFLAGS += -I libft/includes/
 
 SRC = read.c \
 	  split.c \
